@@ -6,10 +6,11 @@
 **Course:** 1DV607 – Object Oriented Analysis and Design using UML, 7.5 credits  
 **Institution:** Linnaeus University – Faculty of Technology  
 **Module/Folder:** `lending_system`  
-**Author(s):** * Shaimaa Bakir
+**Author(s):** 
+* Shaimaa Bakir
 * Marah Awad
 * Mustafa Habeb
-**Term:** [Add term/year]  
+
 
 > This repository documents a complete OO analysis & design of a **Lending System** (e.g., library/video/tool lending). It focuses on **requirements, UML modeling, and design-to-implementation mapping**, aligned with 1DV607 learning outcomes.
 
