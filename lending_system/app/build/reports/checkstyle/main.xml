@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.38">
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\controller\App.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\controller\MainMenu.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\controller\Simple.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\domain\Contract.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\domain\Item.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\domain\Member.java">
+<error line="25" column="28" severity="warning" message="Distance between variable &apos;num&apos; declaration and its first usage is 4, but allowed 3.  Consider making that variable final if you still need to store its value in advance (before method calls that might have side effects on the original value)." source="com.puppycrawl.tools.checkstyle.checks.coding.VariableDeclarationUsageDistanceCheck"/>
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\domain\Registry.java">
+<error line="49" column="38" severity="warning" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="49" column="49" severity="warning" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\domain\TimeCounter.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\domain\validation\EmailValid.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\domain\validation\NumberValid.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\domain\validation\StringValid.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\persistence\HardCodedData.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\persistence\PersistenceInterFace.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\model\Simple.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\view\DateCounterConsole.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\view\ItemConsole.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\view\MemberConsole.java">
+</file>
+<file name="C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java\view\Simple.java">
+</file>
+</checkstyle>

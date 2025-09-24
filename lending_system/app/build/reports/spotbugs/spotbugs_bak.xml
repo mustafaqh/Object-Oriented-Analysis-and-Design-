@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.7.1" sequence="0" timestamp="1669682001968" analysisTimestamp="1669682002027" release="unspecified">
+  <Project projectName="app (spotbugsMain)">
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\controller\App.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\controller\MainMenu$1.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\controller\MainMenu.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\controller\Simple.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\domain\Contract.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\domain\Item.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\domain\Member.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\domain\Registry.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\domain\TimeCounter.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\domain\validation\EmailValid.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\domain\validation\NumberValid.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\domain\validation\StringValid.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\persistence\HardCodedData.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\persistence\PersistenceInterFace.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\model\Simple.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\view\DateCounterConsole.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\view\ItemConsole$ItemChoice.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\view\ItemConsole$ItemEvent.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\view\ItemConsole.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\view\MemberConsole$Choice.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\view\MemberConsole$Choices.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\view\MemberConsole.class</Jar>
+    <Jar>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\build\classes\java\main\view\Simple.class</Jar>
+    <AuxClasspathEntry>C:\Users\shaim\.gradle\caches\modules-2\files-2.1\com.github.spotbugs\spotbugs-annotations\4.7.2\3546c0a24a083e7fdfdf5986bef76b19c477a264\spotbugs-annotations-4.7.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\shaim\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\30.1.1-jre\87e0fd1df874ea3cbe577702fe6f17068b790fd8\guava-30.1.1-jre.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\shaim\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\shaim\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\shaim\.gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\b421526c5f297295adef1c886e5246c39d4ac629\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\shaim\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\3.8.0\6b83e4a33220272c3a08991498ba9dc09519f190\checker-qual-3.8.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\shaim\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.5.1\562d366678b89ce5d6b6b82c1a073880341e3fba\error_prone_annotations-2.5.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\shaim\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.3\ba035118bc8bac37d7eff77700720999acd9986d\j2objc-annotations-1.3.jar</AuxClasspathEntry>
+    <SrcDir>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\resources</SrcDir>
+    <SrcDir>C:\Users\shaim\Documents\1DV607\assigment2\a2\app\src\main\java</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Tue, 29 Nov 2022 01:33:21 +0100" total_classes="23" referenced_classes="69" total_bugs="0" total_size="1236" num_packages="6" java_version="17.0.1" vm_version="17.0.1+12" cpu_seconds="9.52" clock_seconds="2.79" peak_mbytes="146.88" alloc_mbytes="1998.00" gc_seconds="0.05">
+    <FileStats path="controller/App.java" bugCount="0" size="13"/>
+    <FileStats path="controller/MainMenu.java" bugCount="0" size="212"/>
+    <FileStats path="controller/Simple.java" bugCount="0" size="6"/>
+    <FileStats path="model/Simple.java" bugCount="0" size="5"/>
+    <FileStats path="model/domain/Contract.java" bugCount="0" size="32"/>
+    <FileStats path="model/domain/Item.java" bugCount="0" size="107"/>
+    <FileStats path="model/domain/Member.java" bugCount="0" size="108"/>
+    <FileStats path="model/domain/Registry.java" bugCount="0" size="97"/>
+    <FileStats path="model/domain/TimeCounter.java" bugCount="0" size="12"/>
+    <FileStats path="model/domain/validation/EmailValid.java" bugCount="0" size="14"/>
+    <FileStats path="model/domain/validation/NumberValid.java" bugCount="0" size="19"/>
+    <FileStats path="model/domain/validation/StringValid.java" bugCount="0" size="12"/>
+    <FileStats path="model/persistence/HardCodedData.java" bugCount="0" size="67"/>
+    <FileStats path="model/persistence/PersistenceInterFace.java" bugCount="0" size="4"/>
+    <FileStats path="view/DateCounterConsole.java" bugCount="0" size="25"/>
+    <FileStats path="view/ItemConsole.java" bugCount="0" size="205"/>
+    <FileStats path="view/MemberConsole.java" bugCount="0" size="292"/>
+    <FileStats path="view/Simple.java" bugCount="0" size="6"/>
+    <PackageStats package="controller" total_bugs="0" total_types="4" total_size="231">
+      <ClassStats class="controller.App" sourceFile="App.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="controller.MainMenu" sourceFile="MainMenu.java" interface="false" size="202" bugs="0"/>
+      <ClassStats class="controller.MainMenu$1" sourceFile="MainMenu.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="controller.Simple" sourceFile="Simple.java" interface="false" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="model" total_bugs="0" total_types="1" total_size="5">
+      <ClassStats class="model.Simple" sourceFile="Simple.java" interface="false" size="5" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="model.domain" total_bugs="0" total_types="5" total_size="356">
+      <ClassStats class="model.domain.Contract" sourceFile="Contract.java" interface="false" size="32" bugs="0"/>
+      <ClassStats class="model.domain.Item" sourceFile="Item.java" interface="false" size="107" bugs="0"/>
+      <ClassStats class="model.domain.Member" sourceFile="Member.java" interface="false" size="108" bugs="0"/>
+      <ClassStats class="model.domain.Registry" sourceFile="Registry.java" interface="false" size="97" bugs="0"/>
+      <ClassStats class="model.domain.TimeCounter" sourceFile="TimeCounter.java" interface="false" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="model.domain.validation" total_bugs="0" total_types="3" total_size="45">
+      <ClassStats class="model.domain.validation.EmailValid" sourceFile="EmailValid.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="model.domain.validation.NumberValid" sourceFile="NumberValid.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="model.domain.validation.StringValid" sourceFile="StringValid.java" interface="false" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="model.persistence" total_bugs="0" total_types="2" total_size="71">
+      <ClassStats class="model.persistence.HardCodedData" sourceFile="HardCodedData.java" interface="false" size="67" bugs="0"/>
+      <ClassStats class="model.persistence.PersistenceInterFace" sourceFile="PersistenceInterFace.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="view" total_bugs="0" total_types="8" total_size="528">
+      <ClassStats class="view.DateCounterConsole" sourceFile="DateCounterConsole.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="view.ItemConsole" sourceFile="ItemConsole.java" interface="false" size="165" bugs="0"/>
+      <ClassStats class="view.ItemConsole$ItemChoice" sourceFile="ItemConsole.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="view.ItemConsole$ItemEvent" sourceFile="ItemConsole.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="view.MemberConsole" sourceFile="MemberConsole.java" interface="false" size="242" bugs="0"/>
+      <ClassStats class="view.MemberConsole$Choice" sourceFile="MemberConsole.java" interface="false" size="32" bugs="0"/>
+      <ClassStats class="view.MemberConsole$Choices" sourceFile="MemberConsole.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="view.Simple" sourceFile="Simple.java" interface="false" size="6" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="403" invocations="622" avgMicrosecondsPerInvocation="648" maxMicrosecondsPerInvocation="17979" standardDeviationMicrosecondsPerInvocation="1504"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="99" invocations="170" avgMicrosecondsPerInvocation="582" maxMicrosecondsPerInvocation="14270" standardDeviationMicrosecondsPerInvocation="1439"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="95" invocations="627" avgMicrosecondsPerInvocation="151" maxMicrosecondsPerInvocation="2735" standardDeviationMicrosecondsPerInvocation="178"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="83" invocations="69" avgMicrosecondsPerInvocation="1205" maxMicrosecondsPerInvocation="14053" standardDeviationMicrosecondsPerInvocation="2619"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="76" invocations="174" avgMicrosecondsPerInvocation="437" maxMicrosecondsPerInvocation="9712" standardDeviationMicrosecondsPerInvocation="829"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="70" invocations="376" avgMicrosecondsPerInvocation="188" maxMicrosecondsPerInvocation="4318" standardDeviationMicrosecondsPerInvocation="349"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="70" invocations="170" avgMicrosecondsPerInvocation="415" maxMicrosecondsPerInvocation="7465" standardDeviationMicrosecondsPerInvocation="716"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="68" invocations="170" avgMicrosecondsPerInvocation="400" maxMicrosecondsPerInvocation="3084" standardDeviationMicrosecondsPerInvocation="463"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="65" invocations="170" avgMicrosecondsPerInvocation="384" maxMicrosecondsPerInvocation="3206" standardDeviationMicrosecondsPerInvocation="452"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="58" invocations="69" avgMicrosecondsPerInvocation="854" maxMicrosecondsPerInvocation="10071" standardDeviationMicrosecondsPerInvocation="1624"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="55" invocations="170" avgMicrosecondsPerInvocation="325" maxMicrosecondsPerInvocation="8691" standardDeviationMicrosecondsPerInvocation="680"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="53" invocations="173" avgMicrosecondsPerInvocation="308" maxMicrosecondsPerInvocation="34397" standardDeviationMicrosecondsPerInvocation="2605"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="42" invocations="135" avgMicrosecondsPerInvocation="312" maxMicrosecondsPerInvocation="2615" standardDeviationMicrosecondsPerInvocation="354"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="40" invocations="109" avgMicrosecondsPerInvocation="373" maxMicrosecondsPerInvocation="15239" standardDeviationMicrosecondsPerInvocation="1526"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="40" invocations="582" avgMicrosecondsPerInvocation="69" maxMicrosecondsPerInvocation="949" standardDeviationMicrosecondsPerInvocation="120"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="32" invocations="69" avgMicrosecondsPerInvocation="468" maxMicrosecondsPerInvocation="7731" standardDeviationMicrosecondsPerInvocation="1070"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="30" invocations="69" avgMicrosecondsPerInvocation="447" maxMicrosecondsPerInvocation="19704" standardDeviationMicrosecondsPerInvocation="2353"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="25" invocations="69" avgMicrosecondsPerInvocation="363" maxMicrosecondsPerInvocation="15819" standardDeviationMicrosecondsPerInvocation="1901"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.StreamResourceTracker" totalMilliseconds="25" invocations="112" avgMicrosecondsPerInvocation="224" maxMicrosecondsPerInvocation="1181" standardDeviationMicrosecondsPerInvocation="203"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="24" invocations="170" avgMicrosecondsPerInvocation="143" maxMicrosecondsPerInvocation="5255" standardDeviationMicrosecondsPerInvocation="428"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="21" invocations="23" avgMicrosecondsPerInvocation="952" maxMicrosecondsPerInvocation="9657" standardDeviationMicrosecondsPerInvocation="2445"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="21" invocations="69" avgMicrosecondsPerInvocation="312" maxMicrosecondsPerInvocation="2303" standardDeviationMicrosecondsPerInvocation="554"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="21" invocations="69" avgMicrosecondsPerInvocation="311" maxMicrosecondsPerInvocation="2968" standardDeviationMicrosecondsPerInvocation="614"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="19" invocations="23" avgMicrosecondsPerInvocation="835" maxMicrosecondsPerInvocation="4933" standardDeviationMicrosecondsPerInvocation="1071"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="16" invocations="23" avgMicrosecondsPerInvocation="719" maxMicrosecondsPerInvocation="6802" standardDeviationMicrosecondsPerInvocation="1357"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="16" invocations="69" avgMicrosecondsPerInvocation="234" maxMicrosecondsPerInvocation="3008" standardDeviationMicrosecondsPerInvocation="472"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindReturnRef" totalMilliseconds="15" invocations="23" avgMicrosecondsPerInvocation="663" maxMicrosecondsPerInvocation="2113" standardDeviationMicrosecondsPerInvocation="727"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="15" invocations="69" avgMicrosecondsPerInvocation="220" maxMicrosecondsPerInvocation="2163" standardDeviationMicrosecondsPerInvocation="381"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="15" invocations="69" avgMicrosecondsPerInvocation="218" maxMicrosecondsPerInvocation="1817" standardDeviationMicrosecondsPerInvocation="418"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindDeadLocalStores" totalMilliseconds="14" invocations="23" avgMicrosecondsPerInvocation="651" maxMicrosecondsPerInvocation="3154" standardDeviationMicrosecondsPerInvocation="826"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="14" invocations="3035" avgMicrosecondsPerInvocation="4" maxMicrosecondsPerInvocation="2185" standardDeviationMicrosecondsPerInvocation="41"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

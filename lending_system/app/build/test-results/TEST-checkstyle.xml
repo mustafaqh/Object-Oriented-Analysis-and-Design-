@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite package="org.checkstyle" time="0" tests="18" errors="3" name="checkstyle">
+<testcase time="0" name="controller/App.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="controller/MainMenu.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="controller/Simple.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/Contract.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/Item.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/Member.java" classname="CheckStyle Issues">
+<failure message="issues" ><![CDATA[line: 25 column: column:28 
+Distance between variable 'num' declaration and its first usage is 4, but 
+  allowed 3.  Consider making that variable final if you still need to 
+  store its value in advance (before method calls that might have side 
+  effects on the original value).
+----------------
+]]></failure>
+</testcase><testcase time="0" name="model/domain/Registry.java" classname="CheckStyle Issues">
+<failure message="issues" ><![CDATA[line: 49 column: column:38 
+',' is not followed by whitespace.
+----------------
+line: 49 column: column:49 
+',' is not followed by whitespace.
+----------------
+]]></failure>
+</testcase><testcase time="0" name="model/domain/TimeCounter.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/validation/EmailValid.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/validation/NumberValid.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/domain/validation/StringValid.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/persistence/HardCodedData.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/persistence/PersistenceInterFace.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/Simple.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/DateCounterConsole.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/ItemConsole.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/MemberConsole.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/Simple.java" classname="CheckStyle Issues">
+</testcase></testsuite>

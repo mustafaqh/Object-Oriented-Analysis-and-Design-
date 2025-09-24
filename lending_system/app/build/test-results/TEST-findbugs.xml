@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite package="org.spotbugs" time="0" tests="18" errors="0" name="findbugs">
+<testcase time="0" name="model/domain/Item.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/TimeCounter.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="view/ItemConsole.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="view/MemberConsole.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/persistence/HardCodedData.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/validation/EmailValid.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/persistence/PersistenceInterFace.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/Registry.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="controller/App.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/Contract.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="view/DateCounterConsole.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/Member.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="controller/MainMenu.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/Simple.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/validation/StringValid.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="view/Simple.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="controller/Simple.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="model/domain/validation/NumberValid.java" classname="FindBugs Issues">
+</testcase></testsuite>

@@ -1,0 +1,47 @@
+l0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/controller/App.java
+q0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/controller/MainMenu.java
+o0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/controller/Simple.java
+s0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/domain/Contract.java
+o0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/domain/Item.java
+q1 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/domain/Member.java
+"text:line: 25 column: column:28 
+aDistance between variable 'num' declaration and its first usage is 4, but allowed 3.  Consider 
+d  making that variable final if you still need to store its value in advance (before method calls 
+8  that might have side effects on the original value).
+
+s2 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/domain/Registry.java
+"text:line: 49 column: column:38 
+$',' is not followed by whitespace.
+
+"text:line: 49 column: column:49 
+$',' is not followed by whitespace.
+
+v0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/domain/TimeCounter.java
+€0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/domain/validation/EmailValid.java
+0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/domain/validation/NumberValid.java
+0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/domain/validation/StringValid.java
+}0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/persistence/HardCodedData.java
+„0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/persistence/PersistenceInterFace.java
+j0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/model/Simple.java
+u0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/view/DateCounterConsole.java
+n0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/view/ItemConsole.java
+p0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/view/MemberConsole.java
+i0 CheckStyle Issues in C:/Users/shaim/Documents/1DV607/assigment2/a2/app/src/main/java/view/Simple.java
+-0 FindBugs Issues in model/domain/Item.java
+40 FindBugs Issues in model/domain/TimeCounter.java
+,0 FindBugs Issues in view/ItemConsole.java
+.0 FindBugs Issues in view/MemberConsole.java
+;0 FindBugs Issues in model/persistence/HardCodedData.java
+>0 FindBugs Issues in model/domain/validation/EmailValid.java
+B0 FindBugs Issues in model/persistence/PersistenceInterFace.java
+10 FindBugs Issues in model/domain/Registry.java
+*0 FindBugs Issues in controller/App.java
+10 FindBugs Issues in model/domain/Contract.java
+30 FindBugs Issues in view/DateCounterConsole.java
+/0 FindBugs Issues in model/domain/Member.java
+/0 FindBugs Issues in controller/MainMenu.java
+(0 FindBugs Issues in model/Simple.java
+?0 FindBugs Issues in model/domain/validation/StringValid.java
+'0 FindBugs Issues in view/Simple.java
+-0 FindBugs Issues in controller/Simple.java
+?0 FindBugs Issues in model/domain/validation/NumberValid.java

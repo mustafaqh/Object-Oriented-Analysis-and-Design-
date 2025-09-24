@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-30 42 948 633' xmlns:xlink='http://www.w3.org/1999/xlink' width='948.0px' font-size='13' font-family='Arial, LiberationSans' version='1.1' height='633.0px'>
+  <defs>
+<style type='text/css'><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='70ba60af-8cfb-454c-8c5a-407d7d43cf67' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='765849da-2e14-478b-82f9-017adf813ace' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='7b087f8a-7126-40c1-9662-01d24233d4e6' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='f13f649b-613c-4075-9606-d2bef41d40ef' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='4ed1bd13-3f8b-4a22-8519-6729fbad2172' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='3fc2fcbd-24a4-43fa-a723-3338de932261' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='ad5c30ec-40c2-414c-bdf3-8cf70310f259' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+  </defs>
+  <desc>ObjectDiagram</desc>
+  <g transform='translate(0.0,243.0)' id='_5H0vECn-EDuEvODMxRXhiA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='270.0px' y='0.0' stroke-width='1.0' fill='url(#70ba60af-8cfb-454c-8c5a-407d7d43cf67)' stroke='rgb(187, 187, 187)' look='allInOne' height='104.0px'/>
+    <g transform='translate(101.0)'>
+      <text font-weight='bold' text-anchor='start' text-decoration='underline' x='0.0' y='18.0' font-size='13' fill='rgb(3, 54, 86)'>:MainMenu</text>
+    </g>
+    <line y1='24.0' x1='0.0' y2='24.0' x2='270.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(36.0,419.0)' id='_J8nsgCoAEDuEvODMxRXhiA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='198.0px' y='0.0' stroke-width='1.0' fill='url(#765849da-2e14-478b-82f9-017adf813ace)' stroke='rgb(187, 187, 187)' look='allInOne' height='84.0px'/>
+    <g transform='translate(6.0)'>
+      <text font-weight='bold' text-anchor='start' text-decoration='underline' x='0.0' y='18.0' font-size='13' fill='rgb(3, 54, 86)'>memberView:MemberConsole</text>
+    </g>
+    <line y1='24.0' x1='0.0' y2='24.0' x2='198.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(706.0,197.0)' id='_RHv2cCoAEDuEvODMxRXhiA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='170.0px' y='0.0' stroke-width='1.0' fill='url(#7b087f8a-7126-40c1-9662-01d24233d4e6)' stroke='rgb(187, 187, 187)' look='allInOne' height='84.0px'/>
+    <g transform='translate(42.5)'>
+      <text font-weight='bold' text-anchor='start' text-decoration='underline' x='0.0' y='18.0' font-size='13' fill='rgb(3, 54, 86)'>Alice:Member</text>
+    </g>
+    <line y1='24.0' x1='0.0' y2='24.0' x2='170.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(410.0,72.0)' id='_Wx6j8CoAEDuEvODMxRXhiA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='170.0px' y='0.0' stroke-width='1.0' fill='url(#f13f649b-613c-4075-9606-d2bef41d40ef)' stroke='rgb(187, 187, 187)' look='allInOne' height='84.0px'/>
+    <g transform='translate(46.5)'>
+      <text font-weight='bold' text-anchor='start' text-decoration='underline' x='0.0' y='18.0' font-size='13' fill='rgb(3, 54, 86)'>reg:Registry</text>
+    </g>
+    <line y1='24.0' x1='0.0' y2='24.0' x2='170.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(718.0,364.0)' id='_v5OmoCoAEDuEvODMxRXhiA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='170.0px' y='0.0' stroke-width='1.0' fill='url(#4ed1bd13-3f8b-4a22-8519-6729fbad2172)' stroke='rgb(187, 187, 187)' look='allInOne' height='84.0px'/>
+    <g transform='translate(16.5)'>
+      <text font-weight='bold' text-anchor='start' text-decoration='underline' x='0.0' y='18.0' font-size='13' fill='rgb(3, 54, 86)'>viewItem:ItemConsole</text>
+    </g>
+    <line y1='24.0' x1='0.0' y2='24.0' x2='170.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(394.0,561.0)' id='_0z2qgCrlEDu28PuKqs8fQg'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='170.0px' y='0.0' stroke-width='1.0' fill='url(#3fc2fcbd-24a4-43fa-a723-3338de932261)' stroke='rgb(187, 187, 187)' look='allInOne' height='84.0px'/>
+    <g transform='translate(44.5)'>
+      <text font-weight='bold' text-anchor='start' text-decoration='underline' x='0.0' y='18.0' font-size='13' fill='rgb(3, 54, 86)'>:timeCounter</text>
+    </g>
+    <line y1='24.0' x1='0.0' y2='24.0' x2='170.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(394.0,364.0)' id='_47i4oCrlEDu28PuKqs8fQg'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='170.0px' y='0.0' stroke-width='1.0' fill='url(#ad5c30ec-40c2-414c-bdf3-8cf70310f259)' stroke='rgb(187, 187, 187)' look='allInOne' height='84.0px'/>
+    <g transform='translate(19.0)'>
+      <text font-weight='bold' text-anchor='start' text-decoration='underline' x='0.0' y='18.0' font-size='13' fill='rgb(3, 54, 86)'>:timeCounterConsole</text>
+    </g>
+    <line y1='24.0' x1='0.0' y2='24.0' x2='170.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <line y1='419.0' x1='135.0' y2='347.0' x2='135.0' id='_Nco2oCoAEDuEvODMxRXhiA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  <line y1='203.0' x1='706.0' y2='149.0' x2='580.0' id='_ZKVz4CoAEDuEvODMxRXhiA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  <line y1='243.0' x1='238.0' y2='156.0' x2='411.0' id='_c4hV0CoAEDuEvODMxRXhiA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  <line y1='364.0' x1='799.0' y2='281.0' x2='794.0' id='_I-Cu8ioBEDuEvODMxRXhiA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  <line y1='338.0' x1='270.0' y2='378.0' x2='394.0' id='_Azkk0CrmEDu28PuKqs8fQg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  <line y1='448.0' x1='479.0' y2='561.0' x2='479.0' id='_BV9gMCrmEDu28PuKqs8fQg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+</svg>
